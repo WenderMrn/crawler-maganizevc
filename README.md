@@ -6,7 +6,7 @@
 - [Anaconda 4.x.x](https://docs.anaconda.com/anaconda/install/)
 - [Selenium 4.1.3](https://www.selenium.dev/)
 
-Note: need a correct webdrive to your environment. https://www.selenium.dev/downloads/
+Note: you need a correct webdrive to your environment. https://www.selenium.dev/downloads/
 
 ## Site
 
