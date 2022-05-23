@@ -27,7 +27,7 @@ conda create --name <env_name> python=3.8
 ### Active env
 
 ```
-conda activate fiappy
+conda activate crawlervc
 ```
 
 ### Deactivate env
